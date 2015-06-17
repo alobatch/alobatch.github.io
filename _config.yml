@@ -8,10 +8,10 @@ url: ""
 
 # Default build settings
 markdown: kramdown
-# permalink: /slog/
 
-# Serge's build settings
-permalink: /slog/:year/:i_month/:i_day/:title
+
+# Andrey's build settings
+permalink: /blog/:year/:i_month/:i_day/:title
 
 # Sass directory
 sass:

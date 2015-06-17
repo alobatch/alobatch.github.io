@@ -5,26 +5,23 @@ active_nav: home
 
 <div class="main-back">
   <div class="container">
-    <div class="top row">
-      <div class="main-image-box col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
-        <img class="img-responsive img-rounded" src="http://i.imgur.com/xvvjeDe.png" alt="Andrey in Battery Park">
+    <div class="main row">
+      <div class="main-image-box col-md-6 hidden-sm hidden-xs">
+        <img class="img-responsive img-rounded" src="http://d13pix9kaak6wt.cloudfront.net/background/users/s/l/o/slobatch_1387558747_56.jpg" alt="Driving 'The Van'">
       </div>
-    </div>
-    <div class="second row">
-      <div class="main-text-box col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
+      <div class="main-text-box col-md-6">
         <div class="main-text-box-content">
           <h1>Andrey Lobatch</h1>
-          <h2>Engineer &amp; Awesome Dad</h2>
-          <p>
-            When Andrey isn't working on his latest engineering project,
-            you can find him tinkering with computers, improving his home,
-            reading nonfiction, taking <a href="#">photos</a>,
-            or sitting back and enjoying a nice cold lager.
+          <img class="img-thumbnail pull-right fallback-headshot" src="http://d13pix9kaak6wt.cloudfront.net/background/users/s/l/o/slobatch_1387558747_56.jpg" alt="Driving 'The Van'">
+          <h2>Engineer &amp;<br /> Awesome Dad</h2>
+          <img class="img-thumbnail xxs-fallback-headshot" src="http://d13pix9kaak6wt.cloudfront.net/background/users/s/l/o/slobatch_1387558747_56.jpg" alt="Driving 'The Van'">
+          <h3>I am an Engineer at <a href="http://www.blackhawkmgmt.com/">Blackhawk Management Corporation</a>.</h3>
+          <p>I was born in Minsk, raised in Brooklyn, and educated in Providence, Rhode Island. Armed with a degree in Cognitive Science, years of experience getting all kinds of artistic projects off the ground, and a modest arsenal of web, marketing, and creative skills, I'm finding ways to help grow the internet that helped raise me.
           </p>
 
-          <p>He is an amazing father to Alyssa, Michael, and <a href="http://sergelobatch.com">Serge</a> Lobatch.</p>
+          <p>I always had way more fun building cool houses than actually playing with the Sims.</p>
 
-          <p>He cannot wait to hit the open road on a comfortable motorcycle.</p>
+          <p>I have a scissor-lift operator's license.</p>
 
           <div class="loc-edu-icons-area">
             <p><i class="fa fa-map-marker fa-fw"></i><span class="icon-spacer"></span><a href="https://www.google.com/maps/preview?q=33+west+17th+street&ie=UTF-8&hq=&hnear=0x89c259a2c54daf0f:0x3b0c7a068e132472,33+W+17th+St,+New+York,+NY+10011&gl=us&ei=WttwU8-sI8XEsATuuYHgAg&ved=0CEAQ8gEwAg">New York, NY</a></p>
@@ -34,12 +31,7 @@ active_nav: home
           <hr />
 
           <div class="social-icons-area">
-            <a href="http://www.twitter.com/slobatch" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a>
-            <a href="http://instagram.com/slobatch" target="_blank"><i class="fa fa-instagram fa-3x"></i></a>
-            <a href="http://www.linkedin.com/pub/serge-lobatch/2b/227/374/"><i class="fa fa-linkedin-square fa-3x"></i></a>
-            <a href="https://www.facebook.com/slobatch" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a>
-            <a href="http://www.github.com/alobatch" target="_blank"><i class="fa fa-github-square fa-3x"></i></a>
-            <a href="https://trello.com/slobatch" target="_blank"><i class="fa fa-trello fa-3x"></i></a>
+            <a href="http://www.twitter.com/slobatch" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a> <a href="http://instagram.com/slobatch" target="_blank"><i class="fa fa-instagram fa-3x"></i></a> <a href="http://www.linkedin.com/pub/serge-lobatch/2b/227/374/"><i class="fa fa-linkedin-square fa-3x"></i></a> <a href="https://www.facebook.com/slobatch" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a> <a href="http://www.github.com/slobatch" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> <a href="https://trello.com/slobatch" target="_blank"><i class="fa fa-trello fa-3x"></i></a>
           </div>
 
         </div>
