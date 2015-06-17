@@ -1,0 +1,18 @@
+# Site settings
+title: Andrey Lobatch
+email: andrey@lobat.ch
+description: "Best Dad's Kick-ass Website"
+baseurl: "http://andrey.lobat.ch"
+#baseurl: ""
+url: ""
+
+# Default build settings
+markdown: kramdown
+# permalink: /slog/
+
+# Serge's build settings
+permalink: /slog/:year/:i_month/:i_day/:title
+
+# Sass directory
+sass:
+  sass_dir: _sass
