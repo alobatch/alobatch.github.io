@@ -15,4 +15,4 @@ permalink: /blog/:year/:i_month/:i_day/:title
 
 # Sass directory
 sass:
-  sass_dir: _sass
+  sass_dir: stylesheets/_sass
