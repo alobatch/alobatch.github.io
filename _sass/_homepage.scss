@@ -33,20 +33,21 @@
 
   h1{
     color: #333333;
-    font-size: 65px;
-    font-family: 'Averia Serif Libre', cursive;
+    font-size: 70px;
+    font-family: $font-stack-heading;
     font-weight: normal;
+    letter-spacing: -3px;
     line-height: 1;
   }
 
   h2{
-    font-family: 'Kelly Slab', sans-serif;
+    font-family: $font-stack-subhead;
     font-size: 36px;
     color: #333333;
   }
 
   h3{
-    font-family: 'Lato', sans-serif;
+    font-family: $font-stack-body;
     font-size: 17px;
     font-weight: 700;
     color: #333333;
@@ -55,7 +56,7 @@
   }
 
   p{
-    font-family: 'Lato', sans-serif;
+    font-family: $font-stack-body;
     font-size: 17px;
     font-weight: 400;
     color: #333333;
@@ -77,84 +78,49 @@
   padding: 5px;
 }
 
-.social-icons-area a{
-  color: black;
-}
-
-.social-icons-area a:hover{
-  color: #428bca;
-}
-
 .social-icons-area {
-  margin-bottom: 3px;
+
+  margin-bottom: 10px;
+
+  a{
+    color: black;
+  }
+
+  a:hover{
+    color: #428bca;
+  }
 }
 
-.loc-edu-icons-area p {
-  font-size: 14px;
+.social-icons-row {
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
-.loc-edu-icons-area i {
-  font-size: 16px;
-}
+.locaction-icon-area {
+  p {
+    font-size: 14px;
+  }
 
-.loc-edu-icons-area .icon-spacer {
-  padding-left: 5px;
-  padding-right: 5px;
+  i {
+    font-size: 16px;
+  }
+
+ .icon-spacer {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
 }
 
 .learn-more {
   background-color: #f7f7f7;
-}
 
-.learn-more .row{
-  margin: 40px 0px 40px 0px;
-}
-
-/*.learn-more .bullet-box{
-  background-color: #ededed
-  color: white;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  border-radius: 5px;
-}*/
-
-.learn-more h3 {
-  font-family: 'Helvetica Neue', 'Helvetica', sans-serif;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-.fallback-headshot {
-  max-width: 300px;
-}
-
-.xxs-fallback-headshot{
-  display:none;
-}
-
-@media (min-width: 992px) {
-  .fallback-headshot {
-    display: none;
-  }
-}
-
-@media (min-width: 565px) {
-  .img-thumbnail {
-    margin-left: 10px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
-}
-
-@media (max-width: 564px) {
-  .fallback-headshot {
-    display: none;
-  }
-  .xxs-fallback-headshot {
-    display: inline;
+  .row{
+    margin: 40px 0px 40px 0px;
   }
 
-  .main-text-box h3 {
-    padding: 0px;
+  h3 {
+    font-family: 'Helvetica Neue', 'Helvetica', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
   }
 }

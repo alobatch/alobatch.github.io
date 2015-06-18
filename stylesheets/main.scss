@@ -4,6 +4,10 @@
 /* All styles */
 /* ----------------------------------------------------------*/
 
+$font-stack-heading: 'Supermercado One', cursive;
+$font-stack-subhead: 'Lato', sans-serif;
+$font-stack-body: 'Lato', 'Arial', sans-serif;
+
 @import 'header';
 @import 'footer';
 @import 'homepage';

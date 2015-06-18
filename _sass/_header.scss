@@ -5,9 +5,11 @@
 }
 
 .navbar-brand{
-  font-family: 'Averia Serif Libre', sans-serif;
+  font-family: $font-stack-heading;
   font-size: 30px;
   text-transform: none;
+  font-weight: normal;
+  letter-spacing: -2px;
   color: black;
 }
 
